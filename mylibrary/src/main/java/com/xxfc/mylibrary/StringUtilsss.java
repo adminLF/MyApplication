@@ -4,7 +4,7 @@ import android.text.TextUtils;
 
 import java.util.regex.PatternSyntaxException;
 
-public class StringUtils {
+public class StringUtilsss {
 
     public static boolean isChinaPhone(String str)
             throws PatternSyntaxException {
